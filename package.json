@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pacifica-app/Custom-URL-scheme"
+    "url": "https://github.com/pacifica-app/custom-url-scheme"
   },
   "keywords": [
     "Custom URL Scheme",
@@ -37,7 +37,7 @@
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EddyVerbruggen/Custom-URL-scheme/issues"
+    "url": "https://github.com/pacifica-app/custom-url-scheme/issues"
   },
-  "homepage": "https://github.com/EddyVerbruggen/Custom-URL-scheme#readme"
+  "homepage": "hhttps://github.com/pacifica-app/custom-url-scheme#readme"
 }
